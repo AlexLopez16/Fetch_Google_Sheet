@@ -5,6 +5,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react"></img>
+<img src="https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss"></img>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></img>
 
 ## Technology Used 🛠️
