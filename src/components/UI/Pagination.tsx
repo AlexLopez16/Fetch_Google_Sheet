@@ -19,7 +19,7 @@ export const Pagination = ({ projects, currPag, setCurrPag }: Props) => {
 
     useEffect(() => {
         setCurrPag(1)
-    }, [setCurrPag])
+    }, [setCurrPag, projects])
 
     const handleNextPage = () => {
         setCurrPag(currPag + 1)
